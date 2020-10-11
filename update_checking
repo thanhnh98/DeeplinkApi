@@ -1,3 +1,6 @@
 {
-  "data": "Hello world!"
+  "content": "Đã có bản cập nhật mới, hãy cập nhật để có trãi nghiệm tốt nhất bạn nhé :>",
+  "title": "Có bản cập nhật mới",
+  "isForceUpdate":false,
+  "url": "market://details"
 }
