@@ -1,6 +1,7 @@
 {
-  "content": "Đã có bản cập nhật mới, hãy cập nhật để có trãi nghiệm tốt nhất bạn nhé :>",
+  "content": "Phiên bản hiện tại của bạn là %version\n Hiện đã có bản cập nhật mới, hãy cập nhật để có trãi nghiệm tốt nhất bạn nhé :>",
   "title": "Có bản cập nhật mới",
-  "isForceUpdate":false,
-  "url": "market://details"
+  "isForceUpdate":true,
+  "url": "market://details",
+  "version":"1.0.0"
 }
