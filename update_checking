@@ -1,5 +1,5 @@
 {
-  "content": "Phiên bản hiện tại của bạn là %version\n Hiện đã có bản cập nhật mới, hãy cập nhật để có trãi nghiệm tốt nhất bạn nhé :>",
+  "content": "Phiên bản hiện tại của bạn là: %old\n\nHiện đã có bản cập nhật mới (%new) , hãy cập nhật để có trãi nghiệm tốt nhất bạn nhé :>",
   "title": "Có bản cập nhật mới",
   "isForceUpdate":true,
   "url": "market://details",
